@@ -1,12 +1,10 @@
 [package]
 name = "biller"
-version = "0.1.5"
+version = "0.1.6"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["sse", "message-broker", "front-end", "api", "real-time"]
-description = "Front-end Real-time Message Broker"
-repository = "https://github.com/apibillme/biller"
+description = "Moved to package broker"
 readme = "README.md"
 
 [dependencies]
